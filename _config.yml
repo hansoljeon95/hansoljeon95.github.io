@@ -1,0 +1,44 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 5 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: rouge
+markdown: kramdown
+disqus: dbyll
+google_analytics: dbyll
+title: "Hansol Jeon's Blog"
+url: "https://hansoljeon95.github.io"
+baseurl: "" 
+
+locale: "ko-KR"
+masthead_title: "Hansol Jeon's Blog"
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: "Hansol Jeon's Blog"
+
+description: Stylish Jekyll Theme
+author:
+  name: "Hansol Jeon"
+  #avatar: "profile.jpg"
+  bio: "Some Memo on Korean Historical Linguistics"
+  email: "hansoljeon95@gmail.com"
+  twitter: "https://twitter.com/JeonHansol95"
+  bluesky: "https://bsky.app/profile/hansoljeon.bsky.social"
+  mastodon: "https://lingo.lol/@hansoljeon95"
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+# set it as url of an image
+# sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
+
+BASE_PATH:
+
+plugins:
+  - jekyll-paginate
