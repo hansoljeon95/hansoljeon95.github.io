@@ -5,11 +5,11 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: dbyll
-google_analytics: dbyll
 title: "Hansol Jeon's Blog"
-url: "https://hansoljeon95.github.io"
+url: https://hansoljeon95.github.io
 baseurl: "" 
+disqus: "hansoljeon95-github-io"
+google_analytics: dbyll
 
 locale: "ko-KR"
 masthead_title: "Hansol Jeon's Blog"
@@ -24,7 +24,6 @@ defaults:
 description: Stylish Jekyll Theme
 author:
   name: "Hansol Jeon"
-  #avatar: "profile.jpg"
   bio: "Some Memo on Korean Historical Linguistics"
   email: "hansoljeon95@gmail.com"
   twitter: "https://twitter.com/JeonHansol95"
