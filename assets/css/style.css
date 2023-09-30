@@ -1,15 +1,44 @@
 /*@import url(//fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);*/
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');*/
 /*font-family:'Noto Sans KR', sans-serif;*/
+
+@font-face {
+	font-family: "ngulim";
+	src: local(New Gulim),
+	url("../resources/font/ngulim.woff") format('woff'),
+	url("../resources/font/ngulim.tff") format('truetype');
+	unicode-range: U+F67E-F77C;
+}
+
+@font-face {
+	font-family: "hamcdot";
+	src: local(HCR Dotum), local(HCR Dotum Ext),
+	url("../resources/font/HANDotum.woff") format('woff'),
+	url("../resources/font/HANDotumExt.woff") format('woff'),
+	url("../resources/font/HANDotum.ttf") format('truetype'),
+	url("../resources/font/HANDotumExt.ttf") format('truetype');
+	font-weight:400
+}
+
+@font-face {
+	font-family: "hamcdot";
+	src: local(HCR Dotum Bold),
+	url("../resources/font/HANDotumB.woff") format('woff'),
+	url("../resources/font/HANDotumB.ttf") format('truetype');
+	font-weight:700
+}
+
 
 body{
 	color: #2c3e50;
+	font-family: 'hamcdot', 'ngulim', sans-serif;
+	font-size: 16px;
 }
 
 .sidebar {
 	position: fixed;
 	top: 0px;
-	padding-top: 10%;
+	padding-top: 5%;
 	background-color: #fff;
 	color: #2c3e50;
 }
@@ -19,7 +48,7 @@ body{
 	margin-bottom: 10px;
 }
 .sidebar-header .title{
-	letter-spacing: 3px;
+	letter-spacing: 1px;
 	text-transform: uppercase;
 }
 
@@ -96,7 +125,7 @@ article .share .gplus:hover {
 
 @media only screen and (min-width: 768px) {
     .page-header{
-        margin-right: 70px;
+        margin-right: px;
     }
 }
 
@@ -112,25 +141,32 @@ article{
 .post-date {
 	text-transform: uppercase;
 	font-size: 14px;
-	letter-spacing: 3px;
 }
 
 article {
-	padding: 0 5% 0;
+	padding: 0 0.5% 0;
 }
 
 article.home div a, article.home pre a { color: #2c3e50; }
 article.home div a:hover, article.home pre a:hover { color: #2c3e50; text-decoration: none; }
 article img { max-width: 100%; }
 
-h1,h2,h3,h4,h5,h6 { font-family: 'Noto Sans KR', sans-serif; }
+h1,h2,h3,h4,h5,h6 { font-family: 'hamcdot', 'ngulim', sans-serif; }
+h1 {font-size:32px;}
+h2 {font-size:28px;}
+h3 {font-size:24px;}
+h4 {font-size:20px;}
+h5 {font-size:18px;}
+h6 {font-size:16px;}
+
+
 article.home h1,
 article.home h2,
 article.home h3,
 article.home h4,
 article.home h5,
 article.home h6 {
-	font-family: 'Noto Sans KR', sans-serif;
+	font-family: 'hamcdot', 'ngulim', sans-serif;
 	color: #f2756a;
 }
 
@@ -154,7 +190,7 @@ article.home h4 a:hover {
 
 footer {
 	padding-top: 15px;
-	font-family: 'Noto Sans KR';
+	font-family: 'hamcdot', 'ngulim', san-serif;
 }
 
 /* nav-vertical-tabs component */
