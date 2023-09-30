@@ -3,16 +3,25 @@ layout: page
 tagline:
 ---
 ## About
-
-### Publication
-Here is my publication list (to be uploaded).
-
-## ...
+To be uploaded.
 
 ## Romanization
-I use [Yale romanization](https://en.wikipedia.org/wiki/Yale_romanization_of_Korean) with the following modification:
-- 'ㅸ'와 '음가 있는 ㅇ'은 각각 'v, g'로 씁니다. Capital letters are only used for 
-- 'ㅗ'는 항상 'wo'로 씁니다.
-- 율동 규칙에 의해 고저가 결정되는 음절에는 초분절음소를 명기하지 않습니다.
-- 첫 거성이 나타나기 이전의 평성은 모두 표기하지 않습니다.
-- 실제 용례의 초분절음소는 필요한 부분만 표기합니다.
+This blog uses [Yale romanization](https://en.wikipedia.org/wiki/Yale_romanization_of_Korean) with the following modification:
+- 'ㅸ' is transcribed by 'v'.
+- 'ㅇ /ɣ or ɦ/' is transcribed by 'g'.
+- Vowels are not abbreviated.
+    - 'ㅗ, ㅛ' is always transcribed as 'wo, ywo'.
+    - Modern '무, 부, 푸' are always romanized into 'mwu, pwu, phwu' respectively.
+- Pitches are indicated with diacritics.
+    - Low : grave accent (à)
+    - High : acute accent (á)
+    - Rising : caron (ǎ)
+- Pitches determined by pitch assignment rules are not marked. (e.g. *twúlwumi* "crane")
+- Low pitches are not marked, except in the following cases:
+    - Pitch marks from cited texts.
+    - Pitches that are consistently realized as low. (e.g. *kálcòlò* "handle of a knife")
+    - When the underlying form consist solely of low pitches. In this case, only the last syllable will be marked. (e.g., *tolì* "bridge")
+    - Cases where ambiguity may arise.
+
+## Copyright
+Copyright for all posts on this blog belongs to Jeon Hansol, the owner of the blog. Reproduction of the contents from this blog without permission is prohibited. When using or quoting the content of this blog, please provide proper attribution.
