@@ -3,7 +3,8 @@ layout: page
 tagline:
 ---
 ## About
-To be uploaded.
+
+Here is my [curriculum vitae](https://hansoljeon95.github.io/cv.md) (to be updated).
 
 ## Romanization
 This blog uses [Yale romanization](https://en.wikipedia.org/wiki/Yale_romanization_of_Korean) with the following modification:
