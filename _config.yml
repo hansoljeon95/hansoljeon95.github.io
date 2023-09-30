@@ -5,7 +5,8 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-title: "Hansol Jeon"
+title: "Hansol Jeon's Blog"
+sidebar_title: "Hansol Jeon"
 url: https://hansoljeon95.github.io
 baseurl: "" 
 disqus: "hansoljeon95-github-io"

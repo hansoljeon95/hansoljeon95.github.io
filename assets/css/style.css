@@ -32,7 +32,7 @@
 body{
 	color: #2c3e50;
 	font-family: 'hamcdot', 'ngulim', sans-serif;
-	font-size: 16px;
+	font-size: 18px;
 }
 
 .sidebar {
@@ -64,13 +64,13 @@ a.nav-link {
 	color: #aaa;
 }
 a.nav-link i{
-	font-size: 16px;
+	font-size: 18px;
 }
 a.nav-link:hover { color: #777; }
 
 #bio {
 	font-family: "Courier New", Courier, monospace;
-	font-size: 11px;
+	font-size: 12px;
 	margin: 0 auto;
 	margin-bottom: 10px;
 }
@@ -124,7 +124,7 @@ article .share .gplus:hover {
 	text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 800px) {
     .page-header{
         margin-right: px;
     }
@@ -136,12 +136,12 @@ article{
 
 .article_body{
 	margin-top: 20px;
-	margin-bottom: 20px;
+	margin-bottom: 40px;
 }
 
 .post-date {
 	text-transform: uppercase;
-	font-size: 14px;
+	font-size: 16px;
 }
 
 article {
@@ -153,12 +153,12 @@ article.home div a:hover, article.home pre a:hover { color: #2c3e50; text-decora
 article img { max-width: 100%; }
 
 h1,h2,h3,h4,h5,h6 { font-family: 'hamcdot', 'ngulim', sans-serif; }
-h1 {font-size:32px;}
-h2 {font-size:28px;}
-h3 {font-size:24px;}
-h4 {font-size:20px;}
-h5 {font-size:18px;}
-h6 {font-size:16px;}
+h1 {font-size:38px;}
+h2 {font-size:30px;}
+h3 {font-size:25px;}
+h4 {font-size:22px;}
+h5 {font-size:20px;}
+h6 {font-size:18px;}
 
 
 article.home h1,
@@ -220,7 +220,7 @@ footer {
 .badge { background: #F2756A; }
 
 #nav-menu{
-    position: fixed;
+    position: absolute;
     top: 45px;
     right: 45px;
     z-index: 2000;
