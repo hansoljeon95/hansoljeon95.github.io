@@ -46,6 +46,7 @@ body{
 .sidebar-header {
 	text-align: center;
 	margin-bottom: 10px;
+	align-items: center;
 }
 .sidebar-header .title{
 	letter-spacing: 1px;
