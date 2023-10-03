@@ -17,11 +17,11 @@ This blog uses [Yale romanization](https://en.wikipedia.org/wiki/Yale_romanizati
     - Low : grave accent (à)
     - High : acute accent (á)
     - Rising : caron (ǎ)
-- Pitches determined by pitch assignment rules are not marked. (e.g. *twúlwumi* "crane")
+- Pitches determined by pitch assignment rules are not marked. (e.g. MK *twúlwumi* "crane")
 - Low pitches are not marked, except in the following cases:
     - Pitch marks from cited texts.
-    - Pitches that are consistently realized as low. (e.g. *kálcòlò* "handle of a knife")
-    - When the underlying form consist solely of low pitches. In this case, only the last syllable will be marked. (e.g., *tolì* "bridge")
+    - Pitches that are consistently realized as low. (e.g. MK *kálcòlò* "handle of a knife")
+    - When the underlying form consist solely of low pitches. In this case, only the last syllable will be marked. (e.g., MK *tolì* "bridge")
     - Cases where ambiguity may arise.
 
 ## Copyright
