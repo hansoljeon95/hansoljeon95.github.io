@@ -3,8 +3,8 @@ layout: null
 ---
 
 <?xml version="1.0" encoding="UTF-8"?>
-		<!--	created with www.mysitemapgenerator.com	-->
-		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!--	created with www.mysitemapgenerator.com	-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 	<loc>https://hansoljeon95.github.io/</loc>
 	<lastmod>2023-10-25T06:22:11+01:00</lastmod>
@@ -13,10 +13,20 @@ layout: null
 <url>
 	<loc>https://hansoljeon95.github.io/categories.html</loc>
 	<lastmod>2023-10-25T06:22:11+01:00</lastmod>
-	<priority>1.0</priority>
+	<priority>0.1</priority>
 </url>
 <url>
 	<loc>https://hansoljeon95.github.io/tags.html</loc>
+	<lastmod>2023-10-25T06:22:11+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://hansoljeon95.github.io/cv_eng</loc>
+	<lastmod>2023-10-25T06:22:11+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://hansoljeon95.github.io/cv_kor</loc>
 	<lastmod>2023-10-25T06:22:11+01:00</lastmod>
 	<priority>1.0</priority>
 </url>

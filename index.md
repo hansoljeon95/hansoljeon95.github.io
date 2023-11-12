@@ -1,10 +1,12 @@
 ---
 layout: page
 tagline:
+fullview: true
 ---
 ## About
+Here is my [curriculum vitae](https://hansoljeon95.github.io/cv_eng).
 
-Here is my [curriculum vitae](https://hansoljeon95.github.io/cv.html) (to be updated).
+한국어로 된 약력 소개는 [여기](https://hansoljeon95.github.io/cv_kor)를 참조해 주세요.
 
 ## Romanization
 This blog uses [Yale romanization](https://en.wikipedia.org/wiki/Yale_romanization_of_Korean) with the following modification:
