@@ -11,4 +11,4 @@ fullview: true
 - 조선관역어의 ‘噴 [靑]’과 ‘則卜論 [寅]’에 대하여. 제64회 구결학회 여름 전국학술대회, 2023-06-29, 청주고인쇄박물관.
 
 # 자료집
-- 15hhem (15세기 한국어 한글 어휘 모음집, Collection of 15th C. Korean Lexicons) : 작성 중. 35% complete.
+- 15hhem (15세기 한국어 한글 어휘 모음집, Collection of 15th C. Korean Lexicons) : 작성 중. 35% 완료.
