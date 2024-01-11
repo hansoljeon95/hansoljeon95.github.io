@@ -10,6 +10,7 @@ English papers are marked with asterisk (\*).
 
 # Talks
 - On 噴 ‘blue’ and 則卜論 ‘Tiger in Chinese Zodiac’ in Cosen Kwan Yek.e. *The 64th Summer Annual Conference of the Socities of Kugyeol Studies*. Jun 29 2023, Cheongju Early Printing Museum.
+- On Korean Words tayngki ‘Korean ribbon’, taynim ‘Men's Hanbok Pants Suspender’ and the reconstruction of \*tan- 'to be tied, to be fasten'. *2023 Winter Annual Conference of the Society of Korean Historical Linguistics*, Jan 11 2024, Academy of Korean Studies.
 
 # Database
 - 15hhem (15세기 한국어 한글 어휘 모음집, Collection of 15th C. Korean Lexicons) : WIP. 35% complete.
