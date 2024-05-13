@@ -6,7 +6,7 @@ fullview: true
 ---
 # 논문
 - [전한솔 (2023), 조선관역어의 ‘噴 [靑]’과 ‘則卜論 [寅]’에 대하여. 口訣硏究 51, 283-309.](http://journal.kstudy.com/service-journal/view.asp?code=Y2xpZW50S2V5JTNEMjEwMCUyNlBkZk9LJTNEVHJ1ZSUyNnNvcnRUeXBlJTNEMCUyNmxhbmdUeXBlJTNES09SJTI2ZGVmYXVsdFB1YmtleSUzRA==&clientKey=2100&curPage=1&pageScale=10&searchType=1&totCate=&totText=&pubKey=10007&pubYear=2023&pubVN=51@0&detailKEYN=4039242)
-- 전한솔 (2024), ‘댕기, 대님’의 어휘사와 용언 ‘*단- [束, 固定]’의 재구. 국어사연구 38 [근간].
+- [전한솔 (2024), ‘댕기, 대님’의 어휘사와 용언 ‘*단- [束, 固定]’의 재구. 국어사연구 38, 139-167.](http://www.gugeosa.or.kr/html/sub0201.html?pageNm=article&journal=1&code=446187&issue=33917&Page=1&year=2024)
 
 # 발표
 - 조선관역어의 ‘噴 [靑]’과 ‘則卜論 [寅]’에 대하여. 제64회 구결학회 여름 전국학술대회, 2023-06-29, 청주고인쇄박물관.
