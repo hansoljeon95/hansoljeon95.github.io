@@ -11,7 +11,7 @@ Here is my [curriculum vitae](https://hansoljeon95.github.io/cv_eng).
 ## Romanization
 This blog uses [Yale romanization](https://en.wikipedia.org/wiki/Yale_romanization_of_Korean) with the following modification:
 - 'ㅸ' is transcribed by 'v'.
-- 'ㅇ /ɣ or ɦ/' is transcribed by 'g'.
+- 'ㅇ /ɣ/ or /ɦ/' is transcribed by 'g'.
 - Vowels are not abbreviated.
     - 'ㅗ, ㅛ' is always transcribed as 'wo, ywo'.
     - Modern '무, 부, 푸' are always romanized into 'mwu, pwu, phwu' respectively.
