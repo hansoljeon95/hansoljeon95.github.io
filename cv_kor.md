@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae (Korean)
+tags: [top:CV, lan:ko]
 comments: false
 fullview: true
 ---
@@ -13,5 +14,5 @@ fullview: true
 - ‘댕기, 대님’의 어휘사와 용언 ‘\*단- [束, 固定]’의 재구. 2023년 국어사학회 겨울 전국학술대회, 2024-01-11, 한국학중앙연구원.
 
 # 자료집
-- 15hhem (15세기 한국어 한글 어휘 모음집, Collection of 15th C. Korean Lexicons) : 작성 중. 35% 완료.
+- 15hhem (15세기 한국어 한글 어휘 모음집, Collection of 15th C. Korean Lexicons) : 작성 중. 45% 완료.
 - 차자 표기 향명 입력 자료 : 작성 중.

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae (English)
+tags: [top:CV, lan:en]
 comments: false
 fullview: true
 ---
@@ -16,5 +17,5 @@ The 64th Summer Annual Conference of the Socities of Kugyeol Studies. Jun 29 202
 2023 Winter Annual Conference of the Society of Korean Historical Linguistics, Jan 11 2024, Academy of Korean Studies.
 
 # Database
-- 15hhem (15세기 한국어 한글 어휘 모음집, Collection of 15th C. Korean Lexicons) : WIP. 35% complete.
+- 15hhem (15세기 한국어 한글 어휘 모음집, Collection of 15th C. Korean Lexicons) : WIP. 45% complete.
 - Database of pre-Hangul pharmaceutical names (향명 차자 표기 입력 자료) : WIP.
