@@ -1,0 +1,21 @@
+table {
+    border-collapse: collapse;
+    margin: 1rem 0;
+    width: auto;
+}
+
+th,
+td {
+    border: 1px solid #d0d7de;
+    padding: .45rem .7rem;
+    text-align: center;
+}
+
+th {
+    background: #f6f8fa;
+    font-weight: 600;
+}
+
+tbody tr:nth-child(even) {
+    background: #fafbfc;
+}

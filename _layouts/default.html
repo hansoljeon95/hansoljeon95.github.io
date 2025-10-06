@@ -1,14 +1,14 @@
 ---
 theme :
-  name : dbyll
+name : dbyll
 ---
 {% include default.html %}
-
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 {% if site.google_analytics %}
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-0JC36R0PRQ"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
+  function gtag() { dataLayer.push(arguments); }
   gtag('js', new Date());
 
   gtag('config', 'G-0JC36R0PRQ');
