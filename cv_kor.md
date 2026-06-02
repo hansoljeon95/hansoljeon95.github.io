@@ -6,7 +6,7 @@ comments: false
 fullview: true
 ---
 # 학위논문
-- 전한솔 (2026), 중세 한국어 불규칙 체언의 통시적 연구. 서울대학교 석사학위논문.
+- [전한솔 (2026), 중세 한국어 불규칙 체언의 통시적 연구. 서울대학교 석사학위논문.](dcollection.snu.ac.kr/public_resource/pdf/000000195507_20260602094008.pdf)
 
 # 논문
 - [전한솔 (2023), 조선관역어의 ‘噴 [靑]’과 ‘則卜論 [寅]’에 대하여. 口訣硏究 51, 283-309.](http://journal.kstudy.com/service-journal/view.asp?code=Y2xpZW50S2V5JTNEMjEwMCUyNlBkZk9LJTNEVHJ1ZSUyNnNvcnRUeXBlJTNEMCUyNmxhbmdUeXBlJTNES09SJTI2ZGVmYXVsdFB1YmtleSUzRA==&clientKey=2100&curPage=1&pageScale=10&searchType=1&totCate=&totText=&pubKey=10007&pubYear=2023&pubVN=51@0&detailKEYN=4039242)

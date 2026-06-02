@@ -6,7 +6,7 @@ comments: false
 fullview: true
 ---
 # Dissertation
-- Jeon, Hansol (2026), *The Diachrony of Irregular Nouns in Late Middle Korean*. Master's thesis, Seoul National University.
+- [Jeon, Hansol (2026), *The Diachrony of Irregular Nouns in Late Middle Korean*. Master's thesis, Seoul National University.](dcollection.snu.ac.kr/public_resource/pdf/000000195507_20260602094008.pdf)
 
 # Papers
 English papers are marked with asterisk (\*).
