@@ -16,7 +16,7 @@ English papers are marked with asterisk (\*).
 # Talks
 - On the Reading and Meaning of ‘毛叱色只/毛叱所只/’ in *Hyangka* and *Seokdok-gugyeol* Materials.
 The 70th Summer Annual Conference of the Society for Kugyol Studies. Aug 11 2026, Sudeoksa. [Coauthored with Woojin Choi & Hyunsoo Moon]
-- A Hypothesis on the Formation of Korean Causatives *-i-* and *-o-*.
+- A Hypothesis on the Formation of Middle Korean Causatives *-i-* and *-o-*.
 2026 Summer Joint Conference of Academia Koreana and The Society of Korean Historical Linguistics, Jul 9 2026, Seongseo Campus of Keimyung University.
 - On *tayngki* ‘Korean ribbon’, *taynim* ‘men's hanbok pants suspender’ and the Reconstruction of \*tan- 'to (be) tie(d), to (be) fasten(ed)'. 
 2023 Winter Annual Conference of the Society of Korean Historical Linguistics, Jan 11 2024, Academy of Korean Studies.
